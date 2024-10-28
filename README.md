@@ -31,7 +31,7 @@ Fronted folder here is named as realtime
 ---
 
 ### Frontend
-Located in the `frontend/` folder, the front-end is built with Next.js and styled using Material UI (MUI). It includes pages for logging in, posting comments, and displaying comments in real time.
+Located in the `realtime/` folder, the front-end is built with Next.js and styled using Material UI (MUI). It includes pages for logging in, posting comments, and displaying comments in real time.
 
 ### Backend
 Located in the `backend/` folder, the back-end is a Node.js server that uses MySQL for data storage and Socket.IO for real-time updates.
@@ -73,9 +73,9 @@ cd real-time-comments
 
 ### Frontend Setup
 
-1. Navigate to the `frontend` folder:
+1. Navigate to the `realtime` folder:
     ```bash
-    cd frontend
+    cd realtime
     ```
 2. Install dependencies:
     ```bash
