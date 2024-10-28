@@ -67,7 +67,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ayushii06/Real-Time-Comments-System.git
 cd real-time-comments
 ```
 
